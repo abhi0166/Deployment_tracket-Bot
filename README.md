@@ -350,6 +350,7 @@ export ENABLE_PPROF=true
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+--------------------- WIP ----------------------------
 ## 🆘 Support
 
 - **Documentation**: [Wiki](https://github.com/your-org/dep-tracker-backend/wiki)
